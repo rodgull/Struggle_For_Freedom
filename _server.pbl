@@ -1,0 +1,11 @@
+title="Struggle For Freedom"
+type="campaign"
+icon="portraits/elves/hero.png"
+version="0.1.0unfinished"
+author="WYRMY, 1.12.x port by rogul"
+description="Follow the Eastern Elves in the time of Asheviere. Will they succeed in their struggle for freedom, or will a betrayal at their heart strike them at the brink of victory?  506YW."
+email="rodgull@gmail.com"
+# The following tag is only used by Wesnoth 1.11.8 and later!
+[feedback]
+    topic_id=21615
+[/feedback]
