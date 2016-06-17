@@ -1,11 +1,11 @@
-author="WYRMY, 1.12.x port by rogul"
+author="WYRMY, rogul"
 description="Follow the Eastern Elves in the time of Asheviere. Will they succeed in their struggle for freedom, or will a betrayal at their heart strike them at the brink of victory?  506YW."
 email="rodgull@gmail.com"
 icon="portraits/elves/hero.png"
 passphrase="gcoaxyff"
 title="Struggle For Freedom"
 type="campaign"
-version="0.1.0unfinished"
+version="0.1.1"
 [feedback]
 	topic_id=21615
 [/feedback]
